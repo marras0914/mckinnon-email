@@ -11,13 +11,14 @@ body {
   padding: 0;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+  max-width: 700px;
 }
 
-/* line 15, ../scss/style.scss */
+/* line 16, ../scss/style.scss */
 .ExternalClass {
   width: 100%;
 }
-/* line 18, ../scss/style.scss */
+/* line 19, ../scss/style.scss */
 .ExternalClass,
 .ExternalClass p,
 .ExternalClass span,
@@ -27,7 +28,7 @@ body {
   line-height: 100%;
 }
 
-/* line 28, ../scss/style.scss */
+/* line 29, ../scss/style.scss */
 #backgroundTable {
   width: 100% !important;
   margin: 0;
@@ -36,25 +37,25 @@ body {
 }
 
 /* End reset */
-/* line 37, ../scss/style.scss */
+/* line 38, ../scss/style.scss */
 img {
   outline: none;
   text-decoration: none;
   -ms-interpolation-mode: bicubic;
 }
 
-/* line 43, ../scss/style.scss */
+/* line 44, ../scss/style.scss */
 a img {
   border: none;
 }
 
-/* line 47, ../scss/style.scss */
+/* line 48, ../scss/style.scss */
 table {
   border-spacing: 0;
   mso-table-lspace: 0pt;
   mso-table-rspace: 0pt;
 }
-/* line 52, ../scss/style.scss */
+/* line 53, ../scss/style.scss */
 table,
 table td {
   border-collapse: collapse;
